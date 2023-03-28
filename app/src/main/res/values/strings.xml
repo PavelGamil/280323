@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SeventhLessonBeginningArtist</string>
+    <string name="start_new">Новое</string>
+    <string name="brush">Кисть</string>
+    <string name="erase">Стирание</string>
+    <string name="save">Сохранить</string>
+    <string name="paint">Краска</string>
+</resources>
